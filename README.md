@@ -12,4 +12,4 @@ Arquitetura:
 A aplicação utiliza uma arquitetura em camadas, com uma camada de rotas, uma camada de serviços e uma camada de acesso a dados.
 
 Deploy:
-A aplicação está deployada na Google Cloud Platform, utilizando [especificar o serviço da GCP utilizado, como Cloud Functions, App Engine, etc.] para garantir alta disponibilidade e escalabilidade.
+A aplicação está deployada na Google Cloud Platform, utilizando Cloud Run para garantir alta disponibilidade e escalabilidade.
